@@ -1,2 +1,3 @@
-# empty-repo
-Empty repository to test stuff
+# Blank Repository
+
+This is just an empty repository to test stuff. 
